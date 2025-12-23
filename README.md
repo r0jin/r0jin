@@ -1,16 +1,23 @@
-## Hi there 👋
+# Rozhin 👋
 
-<!--
-**r0jin/r0jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI grad with mechatronics roots 🤖  
+Now I’m on the software side: turning **computer vision + robotics**  
+into things that work in the real world 
 
-Here are some ideas to get you started:
+Day job: **Data & Applications Analyst** 📊🛠️  
+— monitoring + analysing data, building algorithms when needed,  
+and shipping end-to-end pipelines: ingest → validate → process → report ⚙️✅  
+Also: making messy systems behave 😅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside work I build robot behaviors 
+perception → decisions → action   
+End goal: products that make people’s lives a bit easier ❤️
+
+Right now I’m upgrading my software craft   
+(structure, OOP, maintainability)  
+— recovering from my old coding philosophy:  
+“if it runs, don’t touch it”   
+(+ a few sacred print statements)  
+New goal: less chaos, more ‘future-me’ friendliness :D
+
+Open to contributing to open source 🌱  
