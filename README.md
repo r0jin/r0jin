@@ -4,6 +4,6 @@ From mechatronics hardware 🔧 to AI-powered vision 🤖 — I live at the inte
 
 ⚙️ Day job: Data & Applications Analyst — crafting algorithms, shipping robust pipelines, ensuring production-grade reliability.
 
-🛠️ Nights & weekends: Experimenting with computer vision + robotics ideas, learning as I go, and building small helpful tools.
+🛠️ Nights & weekends: Experimenting with computer vision + robotics ideas, learning as I go.
 
 🌱 Always down for open-source contribs or cool collaborations.
