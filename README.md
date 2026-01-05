@@ -1,9 +1,18 @@
 # Rozhin 👋
 
-From mechatronics hardware 🔧 to AI-powered vision 🤖 — I live at the intersection of robotics, computer vision, and real-world autonomy.
+From mechatronics hardware 🔧 to AI-powered vision 🤖 — I work at the intersection of robotics, computer vision, and real-world autonomy.
 
-⚙️ Day job: Data & Applications Analyst — crafting algorithms, shipping robust pipelines, ensuring production-grade reliability.
+⚙️ Day job: Data & Applications Analyst — crafting algorithms, shipping robust pipelines, and caring about production-grade reliability.
 
-🛠️ Nights & weekends: Experimenting with computer vision + robotics ideas, learning as I go.
+🛠️ Outside work: Experimenting with computer vision and robotics ideas, learning through hands-on builds and iteration.
 
-🌱 Always down for open-source contribs or cool collaborations.
+🌱 Always happy to contribute to open source or collaborate on thoughtful projects.
+
+
+
+
+
+
+
+
+
